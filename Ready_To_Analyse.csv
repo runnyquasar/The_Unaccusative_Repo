@@ -1,4 +1,4 @@
-значение/язык,итальянский,турецкий,японский,голландский,кимараганг,грузинский,юкатекский,русский ,западноармянский,айнский,толай,английский,ачехский,бацбийский,слэйви,не-персе,кабардинский,хайда,лакота,НЕАККУЗАТИВНЫЙ,НЕЭРГАТИВНЫЙ,НЕПОНЯТНЫЙ
+значение/язык,итальянский,турецкий,японский,нидерландский,кимараганг,грузинский,юкатекский,русский ,западноармянский,айнский,толай,английский,ачехский,бацбийский,слэйви,не-персе,кабардинский,хайда,лакота,НЕАККУЗАТИВНЫЙ,НЕЭРГАТИВНЫЙ,НЕПОНЯТНЫЙ
 fall,1,1,1,1,1,na,1,1,1,1,1,1,1,?,1,na,1,na,na,14,0,1
 die,1,1,1,1,1,1,1,1,na,1,na,na,1,1,na,1,na,1,1,14,0,0
 arrive,1,na,1,1,na,na,1,1,1,1,na,na,na,na,na,na,na,na,na,7,0,0
@@ -8,18 +8,18 @@ happen,1,na,na,1,na,na,1,1,na,na,na,1,na,na,1,na,na,na,na,6,0,0
 sink,1,1,na,na,na,1,na,1,na,1,1,na,1,na,na,na,na,na,na,7,0,0
 stay,1,1,na,na,na,1,na,1,na,1,na,na,1,na,na,na,na,na,na,6,0,0
 be,1,na,1,na,na,1,na,1,1,na,na,na,na,1,na,na,na,na,na,6,0,0
-be born,na,na,1,na,1,1,1,?,1,na,na,na,na,na,na,na,na,na,na,5,0,1
-burn,1,na,1,1,na,na,na,?,na,na,1,1,na,na,na,na,na,na,na,5,0,1
+be born,na,na,1,na,1,1,1,na,1,na,na,na,na,na,na,na,na,na,na,5,0,0
+burn,1,na,1,1,na,na,na,na,na,na,1,1,na,na,na,na,na,na,na,5,0,0
 come,1,1,1,na,na,na,na,1,1,1,na,na,na,0,na,1,na,na,0,7,2,0
-rot,1,1,1,1,1,na,na,?,na,na,na,na,na,na,na,na,na,na,na,5,0,1
+rot,1,1,1,1,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,5,0,0
 exist,1,1,na,na,na,na,na,1,na,na,na,1,na,na,1,na,na,na,na,5,0,0
-remain,1,1,na,1,na,na,1,?,na,na,na,na,1,?,na,na,na,na,na,5,0,2
-be big,na,na,na,na,1,na,na,?,na,na,1,1,1,na,na,na,na,na,na,4,0,1
-break,na,na,na,na,1,1,na,?,na,na,na,na,na,1,1,na,na,na,na,4,0,1
-freeze,na,na,1,na,na,na,na,?,na,na,na,1,na,1,na,na,1,na,na,4,0,1
-ripen,na,na,1,na,1,1,na,?,na,na,1,na,na,na,na,na,na,na,na,4,0,1
-disappear,na,1,1,1,1,na,na,?,na,na,na,na,na,0,na,na,na,na,na,4,1,1
-dry,1,1,na,na,1,1,na,?,na,na,na,na,na,?,na,na,na,na,na,4,0,2
+remain,1,1,na,1,na,na,1,na,na,na,na,na,1,?,na,na,na,na,na,5,0,1
+be big,na,na,na,na,1,na,na,na,na,na,1,1,1,na,na,na,na,na,na,4,0,0
+break,na,na,na,na,1,1,na,na,na,na,na,na,na,1,1,na,na,na,na,4,0,0
+freeze,na,na,1,na,na,na,na,na,na,na,na,1,na,1,na,na,1,na,na,4,0,0
+ripen,na,na,1,na,1,1,na,na,na,na,1,na,na,na,na,na,na,na,na,4,0,0
+disappear,na,1,1,1,1,na,na,na,na,na,na,na,na,0,na,na,na,na,na,4,1,0
+dry,1,1,na,na,1,1,na,na,na,na,na,na,na,?,na,na,na,na,na,4,0,1
 be cold,na,na,na,na,na,na,na,na,na,na,na,na,1,1,na,na,na,1,na,3,0,0
 be good,0,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,1,3,0,0
 be hot,na,na,na,na,na,1,na,na,na,na,na,1,na,1,na,na,na,na,na,3,0,0
@@ -292,4 +292,4 @@ end,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
 get drunk,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
 get fat,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
 soak,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
-0,14,12,11,9,9,8,8,11,6,6,6,6,6,5,4,3,2,1,1,,,
+0,34,26,40,27,34,38,31,31,17,18,21,26,26,36,18,13,8,21,14,189,19,19
