@@ -1,0 +1,295 @@
+значение/язык,итальянский,турецкий,японский,голландский,кимараганг,грузинский,юкатекский,русский ,западноармянский,айнский,толай,английский,ачехский,бацбийский,слэйви,не-персе,кабардинский,хайда,лакота,НЕАККУЗАТИВНЫЙ,НЕЭРГАТИВНЫЙ,НЕПОНЯТНЫЙ
+fall,1,1,1,1,1,na,1,1,1,1,1,1,1,?,1,na,1,na,na,14,0,1
+die,1,1,1,1,1,1,1,1,na,1,na,na,1,1,na,1,na,1,1,14,0,0
+arrive,1,na,1,1,na,na,1,1,1,1,na,na,na,na,na,na,na,na,na,7,0,0
+enter,na,1,na,na,0,na,1,1,1,na,0,na,na,1,na,1,na,na,na,6,2,0
+grow,1,1,na,1,na,na,1,1,na,na,1,na,na,na,na,na,na,na,na,6,0,0
+happen,1,na,na,1,na,na,1,1,na,na,na,1,na,na,1,na,na,na,na,6,0,0
+sink,1,1,na,na,na,1,na,1,na,1,1,na,1,na,na,na,na,na,na,7,0,0
+stay,1,1,na,na,na,1,na,1,na,1,na,na,1,na,na,na,na,na,na,6,0,0
+be,1,na,1,na,na,1,na,1,1,na,na,na,na,1,na,na,na,na,na,6,0,0
+be born,na,na,1,na,1,1,1,?,1,na,na,na,na,na,na,na,na,na,na,5,0,1
+burn,1,na,1,1,na,na,na,?,na,na,1,1,na,na,na,na,na,na,na,5,0,1
+come,1,1,1,na,na,na,na,1,1,1,na,na,na,0,na,1,na,na,0,7,2,0
+rot,1,1,1,1,1,na,na,?,na,na,na,na,na,na,na,na,na,na,na,5,0,1
+exist,1,1,na,na,na,na,na,1,na,na,na,1,na,na,1,na,na,na,na,5,0,0
+remain,1,1,na,1,na,na,1,?,na,na,na,na,1,?,na,na,na,na,na,5,0,2
+be big,na,na,na,na,1,na,na,?,na,na,1,1,1,na,na,na,na,na,na,4,0,1
+break,na,na,na,na,1,1,na,?,na,na,na,na,na,1,1,na,na,na,na,4,0,1
+freeze,na,na,1,na,na,na,na,?,na,na,na,1,na,1,na,na,1,na,na,4,0,1
+ripen,na,na,1,na,1,1,na,?,na,na,1,na,na,na,na,na,na,na,na,4,0,1
+disappear,na,1,1,1,1,na,na,?,na,na,na,na,na,0,na,na,na,na,na,4,1,1
+dry,1,1,na,na,1,1,na,?,na,na,na,na,na,?,na,na,na,na,na,4,0,2
+be cold,na,na,na,na,na,na,na,na,na,na,na,na,1,1,na,na,na,1,na,3,0,0
+be good,0,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,1,3,0,0
+be hot,na,na,na,na,na,1,na,na,na,na,na,1,na,1,na,na,na,na,na,3,0,0
+be sick,na,na,na,na,na,na,na,na,na,na,0,na,na,na,na,1,1,1,na,3,1,0
+be thirsty,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,1,3,0,0
+float,na,na,1,na,na,na,na,na,na,na,na,1,na,na,1,na,na,na,na,3,0,0
+tremble,na,na,1,na,na,1,na,na,na,na,na,na,na,1,na,na,na,na,na,3,0,0
+be afraid,na,na,na,na,na,na,1,na,na,na,0,na,na,1,na,na,1,?,0,3,2,1
+close,na,na,na,na,na,1,na,1,na,na,na,1,na,na,na,na,na,na,na,3,0,0
+go,1,na,1,na,0,na,na,na,1,na,0,na,na,0,na,0,na,na,0,2,5,0
+gush,na,1,na,1,na,0,na,na,na,na,na,na,na,1,na,na,na,na,na,3,1,0
+leave,na,na,1,1,na,na,1,na,na,na,na,na,na,0,na,na,na,0,na,3,2,0
+roll,na,na,1,na,na,na,1,na,na,na,na,na,1,?,na,na,na,na,na,3,0,1
+sleep,na,na,1,0,0,na,1,na,na,na,na,0,na,0,na,na,0,0,1,3,6,0
+stand,na,na,na,1,na,na,na,1,na,1,na,na,na,na,na,na,na,0,na,3,1,0
+become black,na,1,na,na,na,1,na,1,na,na,na,na,na,na,na,na,na,na,na,3,0,0
+drown,1,1,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,2,0,0
+explode,na,1,na,1,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,3,0,0
+ascend,na,na,1,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,2,0,0
+be ashamed of,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,2,0,0
+be broken,na,na,na,na,1,na,na,na,na,na,1,na,na,na,na,na,na,na,na,2,0,0
+be dirty,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,2,0,0
+be old,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,na,2,0,0
+be sleepy,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,2,0,0
+be smart,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,na,2,0,0
+begin,na,na,na,na,na,1,na,na,?,na,na,1,na,0,na,na,na,na,na,2,1,1
+cook,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,na,na,na,na,2,0,0
+crumble,na,na,na,na,1,na,na,na,1,na,na,na,na,na,na,na,na,na,na,2,0,0
+finish,na,na,na,na,1,na,na,na,na,na,1,na,na,na,na,na,na,na,na,2,0,0
+get well,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,1,na,na,2,0,0
+glow,na,na,na,na,na,na,na,na,na,na,na,1,na,na,1,na,na,na,na,2,0,0
+hurt,na,na,na,na,1,na,na,na,na,na,1,na,na,na,na,na,na,na,na,2,0,0
+last,na,na,na,1,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,2,0,0
+lie,na,na,na,na,na,1,na,na,na,na,0,1,na,na,na,na,na,na,na,2,1,0
+melt,na,na,na,na,na,1,na,na,na,na,na,1,na,na,na,na,na,na,na,2,0,0
+occur,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,na,na,na,na,2,0,0
+rise,na,na,1,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,2,0,0
+seep,na,na,na,1,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,2,0,0
+shatter,na,na,na,na,1,na,na,na,na,na,na,na,na,1,na,na,na,na,na,2,0,0
+slide,na,na,?,1,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,0,1
+smile uncontrollably,na,na,na,1,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,2,0,0
+sparkle,na,na,na,na,na,1,na,na,na,na,na,na,1,na,na,na,na,na,na,2,0,0
+stop,na,na,1,na,0,na,na,na,na,na,na,na,1,na,na,na,na,na,na,2,1,0
+survive,na,na,na,1,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,2,0,0
+sweat,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,na,2,0,0
+wither,na,na,1,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,0,0
+appear,na,na,1,na,na,na,na,1,na,na,na,na,na,0,na,na,na,na,na,2,1,0
+be late,na,na,na,na,na,na,1,na,na,na,na,na,na,1,na,na,na,na,na,2,0,0
+become,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,na,na,2,0,0
+become red,na,na,na,na,na,1,na,1,na,na,na,na,na,na,na,na,na,na,na,2,0,0
+bleed,na,1,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,0,0
+blush,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,2,0,0
+descend,na,na,na,na,0,na,1,na,na,1,na,na,na,na,na,na,na,na,na,2,1,0
+drip,na,1,na,1,na,0,na,na,na,na,na,na,na,na,na,na,na,na,na,2,1,0
+evaporate,na,1,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,0,0
+glitter,1,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+lose weight,1,na,na,na,na,na,na,na,na,na,na,na,na,?,na,1,na,na,na,1,0,1
+rain,na,na,na,na,na,na,1,na,1,na,na,na,na,na,na,na,na,na,na,2,0,0
+run,?,0,0,na,0,na,0,1,1,na,na,na,na,0,na,na,na,0,na,2,6,0
+sit,na,na,na,na,0,na,na,1,na,1,0,na,na,?,na,na,na,0,na,2,3,1
+slip,na,1,na,na,1,na,na,na,na,na,na,na,na,?,na,na,na,?,na,2,0,2
+smell,na,1,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,2,0,0
+suffer,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,2,0,0
+trip,na,1,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,2,0,0
+age,1,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+flash,1,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+like,1,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+ring,1,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+advance,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+alive,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+appeal,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+approach,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+arise,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+awaken,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+bake,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+bang,na,na,na,na,na,na,na,1,na,na,na,0,na,na,na,na,na,na,na,1,1,0
+bark,na,na,0,na,na,na,na,na,1,na,na,0,na,0,na,0,na,na,na,1,4,0
+be a man,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be alive,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be angry,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,?,na,1,0,1
+be black,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+be brown,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,0,0
+be confused,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be crowded,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be cut down,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+be dark,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be difficult,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+be drowned,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be embarrassed,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be frightened,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,0,0
+be from there,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,0,0
+be glad,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+be happy,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+be heard,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,1,0,0
+be huge,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+be hungry,na,na,na,na,na,1,na,na,na,na,0,na,na,na,na,na,na,na,0,1,2,0
+be lakhota,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,0,0
+be located,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+be lost,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+be lying inside,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be mentionned,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be mixed up,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be nervous,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be pretty,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be proud of,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,0,0
+be ready,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be ripe,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be ruined,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be shot,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+be sitting,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be spilled,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be standing,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be stinky,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+be stretched out,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+be strong,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be tied up,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be uprooted,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+be weak,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+be wet,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+be worth,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+be yellow,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+become a man,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+become a woman,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+become afraid,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+become full,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+become old,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+become smaller,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+belch,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+belong to,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+bend,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+blinding snowstorm,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+boil,na,na,na,na,na,?,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+boil over,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+bounce,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+break off,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+bury,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+buzzes,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+cave in,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+cease,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+climb,na,na,na,na,0,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+collapse,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+cool,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+cry,na,na,1,na,na,0,0,na,na,na,0,0,na,0,0,0,na,0,0,1,7,0
+cure,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+decompose,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+depart,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+destroy,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+dissolve,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+dizzy,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+drift,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+drop,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+dry up,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+extend,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+fall down,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,1,0,1
+feel ticklish,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+feverish,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+fill,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+fire,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+fit,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+fit in/through a small space,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+flow,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+fruit,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+full,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+get angry,na,na,na,na,1,na,na,na,na,na,na,na,na,0,na,na,na,na,na,1,1,0
+get cloudy,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+get lost,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+get wounded,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+"go mindlessly, unconsiously",na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+go out,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+go up,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+go wrong,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+go-go,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+grow up,na,na,na,na,na,1,na,na,na,na,na,na,na,?,na,na,na,na,na,1,0,1
+have,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,1,0,0
+have a baby,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+heat,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+hit,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+hot,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+leak,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+lean,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+lie around,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+light up,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+live,na,na,na,na,na,na,na,na,na,1,na,na,na,0,na,na,na,0,na,1,2,0
+lock,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+lost,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+make noise,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+murmur,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+not exist,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+ooze,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+open,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+open up,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+organize,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,1,0,0
+originate,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+overheat,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,1,0,0
+paralyze,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+present copula,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+reach,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+reduce in weight,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+rejoice,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+remember,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+resemble,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,1,1,0,1
+rest,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+result,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+return,na,na,1,na,0,na,na,na,na,na,na,na,na,0,na,na,na,na,na,1,1,0
+roast,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+run away,na,0,na,na,na,na,na,na,na,na,na,na,na,0,na,1,na,na,na,1,1,0
+see,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+shake,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+shine,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+shiver,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,1,0,0
+smother,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+snap,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,1,0,0
+sound,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,1,0,0
+spill,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+splash,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+split,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+spread out,na,na,na,na,na,1,na,na,na,na,na,na,na,0,na,na,na,na,na,1,1,0
+sprout,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+start,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+stay as guest,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,1,0,0
+stink,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+stretch out,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,1,0,0
+study,na,na,na,na,na,na,na,na,1,na,na,0,na,na,na,na,na,na,na,1,1,0
+suffocate,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+sun-dry,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+swell,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,1,0,0
+take place,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,1,0,0
+tie,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,1,0,0
+tire out,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+walk aimlessly,na,na,na,na,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,1,0,0
+weaken,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+wilt,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be surprised,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be written,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+become blue,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+become dirty,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+become uglier,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+become young looking,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+bite,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+block,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+blossom,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+blow up,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+crash,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+escape,na,na,na,na,0,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+fade,na,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+fatten,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+forget,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+get mad,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+gush out,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+hang around,na,na,na,na,na,na,1,na,na,na,na,na,na,?,na,na,na,na,na,1,0,1
+joke,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+move,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+process,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+seem,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+shrink,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+sneeze,na,na,na,0,na,na,1,na,na,na,na,0,na,na,na,na,na,na,na,1,1,0
+snore,na,na,na,na,na,na,1,na,na,na,na,0,na,na,na,na,na,na,na,1,1,0
+swing,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+think,na,na,na,na,na,na,1,na,na,na,na,0,na,na,na,na,na,na,na,1,1,0
+toll,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+totter,1,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+turn up,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+turn yellow,na,1,na,na,0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+wallow,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+worry,na,na,na,na,na,na,na,1,na,na,na,na,na,na,na,na,na,na,na,1,0,0
+be tired,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,?,0,0,1
+burst open,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
+crash down,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+end,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0
+get drunk,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
+get fat,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
+soak,na,na,na,na,na,na,na,na,na,na,na,na,na,?,na,na,na,na,na,0,0,1
+0,14,12,11,9,9,8,8,11,6,6,6,6,6,5,4,3,2,1,1,,,
